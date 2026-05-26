@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# This public documentation site is intended for direct-link access only.
