@@ -82,7 +82,7 @@ Zod で検証する項目、初期値、更新タイミングを書く。
 - [ ] `DESIGN.md` の画面設計ルールに従っている。
 - [ ] 必要なデータが Zod で検証される。
 - [ ] Firebase の読み書きと権限の前提が明記されている。
-- [ ] 問題コンテンツを扱う場合、`docs/content-policy.md` に従っている。
+- [ ] 問題コンテンツを扱う場合、`docs/specs/content/question-content-policy.md` に従っている。
 
 ## 確認すべき質問
 
