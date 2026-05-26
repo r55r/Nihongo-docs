@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#3-home` |
 
+## 画面イメージ
+
+![Home画面](./home-screen.png)
+
 ## 目的
 
 辞書検索を主役にしつつ、今日のN2学習へ迷わず戻れる画面にする。

@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#初回起動` |
 
+## 画面イメージ
+
+![初回起動ログイン画面](./login-entry-screen.png)
+
 ## 目的
 
 ユーザーが迷わずゲスト開始できる入口を作り、Apple / Google / class code は将来の認証導線としてブランド上表示する。

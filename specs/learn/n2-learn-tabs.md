@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#5-learn` |
 
+## 画面イメージ
+
+![Learn N2タブ画面](./n2-learn-tabs-screen.png)
+
 ## 目的
 
 N2 の大問ごとに学習を選べる画面を作り、N2 以外は将来導線として準備中表示にする。

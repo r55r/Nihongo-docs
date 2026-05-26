@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#2-10-問診断` |
 
+## 画面イメージ
+
+![N2 10問診断画面](./n2-ten-question-check-screen.png)
+
 ## 目的
 
 オンボーディング直後に、N2 学習計画を作るための仮診断を行う。

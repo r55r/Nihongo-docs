@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#9-ミニ模試` |
 
+## 画面イメージ
+
+![N2ミニ模試画面](./n2-mini-mock-screen.png)
+
 ## 目的
 
 短時間でN2本番に近い確認を行い、弱点と合格可能性を更新する。

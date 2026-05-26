@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#8-弱点復習` |
 
+## 画面イメージ
+
+![N2弱点復習画面](./weakness-review-screen.png)
+
 ## 目的
 
 誤答、低自信、同タグの連続ミスから、N2大問タグ単位の弱点復習を作る。

@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#コンテンツ方針` |
 
+## 画面イメージ
+
+![N2問題コンテンツレビュー画面](./question-content-policy-screen.png)
+
 ## 目的
 
 N2問題、解説、例文、スクレイピング素材の権利状態を明確にし、公開できるコンテンツだけをアプリに出す。

@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#4-辞書` |
 
+## 画面イメージ
+
+![辞書画面](./dictionary-screen.png)
+
 ## 目的
 
 N2 学習中に語彙、漢字、例文をすぐ確認できるようにする。

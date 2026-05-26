@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#7-毎日の演習` |
 
+## 画面イメージ
+
+![N2毎日演習画面](./daily-practice-screen.png)
+
 ## 目的
 
 N2の新規問題と弱点復習を混ぜ、10分で完了できる毎日の演習を提供する。

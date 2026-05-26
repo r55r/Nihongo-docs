@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#6-学習計画` |
 
+## 画面イメージ
+
+![N2毎日学習計画画面](./daily-plan-screen.png)
+
 ## 目的
 
 10問診断と試験予定日から、毎日迷わず進められるN2学習計画を作る。

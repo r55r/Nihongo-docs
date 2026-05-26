@@ -5,6 +5,10 @@
 | updated | 2026-05-26 |
 | related | `docs/features.md#10-合格可能性更新` |
 
+## 画面イメージ
+
+![N2合格可能性画面](./pass-probability-screen.png)
+
 ## 目的
 
 ミニ模試後に、N2合格可能性と次に伸ばすべき行動を短く表示する。
